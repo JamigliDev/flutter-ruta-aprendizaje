@@ -7,7 +7,7 @@ La ruta de aprendizaje se divide en los siguientes puntos principales:
 ### Fundamentos de programación
 ### Desarrollo de aplicaciones móviles
 ### Introducción a Flutter
-### esarrollo de aplicaciones con Flutter
+### Desarrollo de aplicaciones con Flutter
 ### Publicación de aplicaciones
 
 Cada uno de estos puntos incluye una serie de temas y recursos que cubren los conocimientos necesarios para aprender Flutter.
@@ -40,7 +40,44 @@ En esta sección, se pretende cubrir los fundamentos del desarrollo de aplicacio
 * Documentación de Android: https://developer.android.com/docs
 * Curso "Desarrollo Programación Android" en YT: [Curso por MoureDev](https://www.youtube.com/playlist?list=PLNdFk2_brsRdYF0FXDtSaGvluzBNHRbNe)
 * Libro "iOS Programming: The Big Nerd Ranch Guide" de Christian Keur y Aaron Hillegass: [Libro en Amazon](https://www.amazon.com/iOS-Programming-Ranch-Guide-Guides/dp/0135264022)
-* Curso "Desarrollo de aplicaciones móviles con Flutter" en Udemy: [Curso de Fernando Herrera](https://www.udemy.com/course/flutter-ios-android-fernando-herrera/)
+* Curso "Flutter: Tu guía completa de desarrollo para IOS y Android" en Udemy: [Curso de Fernando Herrera](https://www.udemy.com/course/flutter-ios-android-fernando-herrera/)
+
+## Introducción a Flutter
+En esta sección, se pretende curbrir los fundamentos de Flutter necesarios para comenzar a desarrollar aplicaciones móviles con este framework. Esto incluye los siguientes temas:
+
+* Instalación y configuración de Flutter
+* Estructura de un proyecto de Flutter
+* Widgets y Material Design
+* Manejo de eventos y navegación
+* Integración de paquetes y plugins
+
+### Recursos recomendados
+* Documentación de Flutter: https://flutter.dev/docs
+* Curso "Flutter desde cero - Guía completa con arquitectura limpia" en Udemy: [Curso de Darwin Morocho](https://www.udemy.com/course/flutter-desde-cero-darwin-morocho/)
+* Libro "Flutter in Action" de Eric Windmill: [Libro de Eric Windmill](https://www.manning.com/books/flutter-in-action)
+* Curso "Flutter desde cero" en Platzi: [Curso por Anahí Salgado](https://platzi.com/clases/flutter/)
+* Curso "Aprender Flutter" en YouTube: [Curso por Código Correcto](https://www.youtube.com/playlist?list=PLutrh4gv1YI8ap4JO23lN81JOSZJ3i5OO)
+
+## Publicación de aplicaciones
+En esta sección, se prentenden cubrir los pasos necesarios para publicar aplicaciones móviles desarrolladas con Flutter en las tiendas de aplicaciones de iOS y Android. Esto incluye los siguientes temas:
+
+* Preparación de la aplicación para su publicación
+* Creación de cuentas de desarrollador
+* Firma de la aplicación y creación de certificados
+* Generación de archivos de carga y envío a las tiendas
+* Aprobación y seguimiento del proceso de revisión
+
+### Recursos recomendados
+* Guía "Publishing to the App Store" de Apple: [Guía aquí](https://developer.apple.com/app-store/submissions/)
+* Guía "Publishing Your App" de Google Play: [Guía aquí](https://developer.android.com/studio/publish)
+* Video "Haz estas 3 cosas antes de subir tu APP a la PLAYSTORE" en YouTube: [Video de AristiDevs](https://youtu.be/f02ZOf76qwk)
+* Video "¿Cómo subir una App a App Store SIN SUFRIR?" en YouTube: [Directo por Actualízatec](https://www.youtube.com/watch?v=IlWkfCy3I9I&ab_channel=Actual%C3%ADzatec)
+
+### Mención espececial
+Si estás interesado en seguir aprendiendo sobre Flutter y estar al día en las últimas tendencias del desarrollo móvil, te invito a visitar mi canal de YouTube. En él encontrarás tutoriales y explicaciones detalladas sobre el uso de Flutter, consejos y trucos para mejorar tu productividad y todo lo que necesitas para desarrollar aplicaciones móviles de alta calidad. ¡Suscríbete a mi canal y comienza tu viaje en Flutter hoy mismo!
+
+(Aquí mi súper canal!!)[https://www.youtube.com/@jamiglidev]
+
 
 ## Cómo usar este repositorio
 Cada tema en la ruta de aprendizaje incluye una breve descripción de los conceptos clave y enlaces a recursos adicionales. Los estudiantes pueden seguir la ruta de aprendizaje en orden o saltar a temas específicos según sus necesidades. Los ejemplos de código se incluyen en este repositorio para ayudar a los estudiantes a aplicar lo que han aprendido.
